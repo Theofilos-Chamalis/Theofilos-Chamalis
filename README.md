@@ -50,22 +50,18 @@
 
 ## 📊 Github Stats
 
-<p align="center">
 <a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theofilos-Chamalis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theofilos-Chamalis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
   
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages used in my <b>public code/repos</b> and doesn't reflect experience or skill level.
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Theofilos-Chamalis/github-readme-streak-stats">
-        <img title="Theofilos's streak stats 🔥" alt="Theofilos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Theofilos-Chamalis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
+<a href="https://github.com/Theofilos-Chamalis/github-readme-streak-stats">
+    <img title="Theofilos's streak stats 🔥" alt="Theofilos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Theofilos-Chamalis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 <br/>
 
