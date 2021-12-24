@@ -7,6 +7,8 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/theofiloschamalis/) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2787828/amadeusx) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theofilos.chamalis) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/theofxam)[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Theofilos-Chamalis)
 
+<br />
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working at **[Crowdlinker Inc.](https://crowdlinker.com/)**
@@ -18,6 +20,8 @@
 - 📫 How to reach me **theofxam@gmail.com**
 
 - ⚡ Fun fact **I like pc building, jogging, cars and Netflix tv series**
+
+<br />
 
 ## 🚀 Languages and Tools:
 
@@ -44,25 +48,28 @@
 
 <br/>
 
+## 📊 Github Stats
+
+<p align="center">
+<a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theofilos-Chamalis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theofilos-Chamalis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+  
+<br/>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+
 <p align="center">
     <a href="https://github.com/Theofilos-Chamalis/github-readme-streak-stats">
         <img title="Theofilos's streak stats 🔥" alt="Theofilos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Theofilos-Chamalis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## 📊 Github Stats
-
-  <br/>
-    <a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theofilos-Chamalis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theofilos-Chamalis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
 <br/>
 
-<a href="https://github.com/SL0TR/github-readme-activity-graph"><img alt="Mohaimin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Theofilos-Chamalis&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Theofilos-Chamalis/github-readme-activity-graph"><img alt="Theofilos' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Theofilos-Chamalis&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -71,4 +78,4 @@
 <a href="https://github.com/Theofilos-Chamalis/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Theofilos-Chamalis">
 </a>
-<a href="https://github.com/Theofilos-Chamalis?tab=followers"><img src="https://img.shields.io/github/followers/SL0TR?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Theofilos-Chamalis?tab=followers"><img src="https://img.shields.io/github/followers/Theofilos-Chamalis?label=Followers&style=social" alt="GitHub Badge"></a>
