@@ -27,7 +27,7 @@
 
 <br />
 
-## 🚀 Languages and Tools:
+## 🚀 Languages, Tools and Contributions:
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -49,17 +49,18 @@
     <a href="https://jestjs.io/" target="_blank"> <img width="54"  src="https://cdn.iconscout.com/icon/free/png-256/jest-3630129-3031261.png"/> </a> 
 </p>
 
+<br/>
 
+<div align="center">
+<a href="https://github.com/Theofilos-Chamalis/github-readme-streak-stats">
+    <img title="Theofilos's streak stats 🔥" alt="Theofilos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Theofilos-Chamalis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+</div>
+
+<br/>
 <br/>
 
 ## 📊 Github Stats
 
-<br/>
-
-<a href="https://github.com/Theofilos-Chamalis/github-readme-streak-stats">
-    <img title="Theofilos's streak stats 🔥" alt="Theofilos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Theofilos-Chamalis&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-
-<br/>
 <br/>
 
 <a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Theofilos-Chamalis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <a href="https://github.com/Theofilos-Chamalis/github-readme-stats"><img alt="Theofilos' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theofilos-Chamalis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
