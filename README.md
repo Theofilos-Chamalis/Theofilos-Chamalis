@@ -43,6 +43,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://styled-components.com/" target="_blank"> <img width="54" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img width="54" src="https://user-images.githubusercontent.com/98990/89711240-4172a200-d989-11ea-8d51-4aaf922fa407.png" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/docker.png"/> </a> 
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/amazon-web-services.png"/> </a> 
