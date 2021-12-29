@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/theofiloschamalis/) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2787828/amadeusx) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theofilos.chamalis) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/theofxam)[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Theofilos-Chamalis)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/theofiloschamalis/) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/2787828/amadeusx) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/theofilos.chamalis) [![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/theofxam) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Theofilos-Chamalis)
 
 </div>
 
