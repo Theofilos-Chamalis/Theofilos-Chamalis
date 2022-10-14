@@ -35,7 +35,7 @@
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/office/58/000000/react.png"/> </a>
     <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/nolan/64/react-native.png"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/nextjs.png" width="56"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="56"/> </a>
     <a href="https://v3.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
